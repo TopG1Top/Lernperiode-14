@@ -87,44 +87,4 @@ Arbeitspakete (4)
 
 [ ] Dokumentation erweitern (technische Erkenntnisse + Beispiele)  
 
-Reflexion 20.03  
-Heute habe ich meine bestehende Arbeit weiter ausgebaut und stärker auf Qualität geachtet. Ich merke, dass ich schneller vorankomme, weil die Basis sauber ist. Im Security-Teil konnte ich Muster im Traffic erkennen, was mir hilft, Zusammenhänge besser zu verstehen.
 
----
-
-### 27.03 – Vertiefung Security & Anwendung
-Arbeitspakete (4)  
-[ ] Netzwerkanalyse vertiefen (z. B. DNS, verschiedene Protokolle gezielt anschauen)  
-
-[ ] Unterschiede zwischen verschiedenen Requests/Flows verstehen und vergleichen  
-
-[ ] Eigene App erneut prüfen (wo könnten noch Schwächen sein?)  
-
-[ ] Security-Doku erweitern (konkrete Beispiele + eigene Erkenntnisse)  
-
-Reflexion 27.03  
-Heute habe ich mein Security-Verständnis weiter vertieft und mehr Zusammenhänge erkannt. Besonders hilfreich war es, verschiedene Requests zu vergleichen und Unterschiede bewusst wahrzunehmen. Dadurch wird mein Verständnis für Netzwerke deutlich stärker.
-
----
-
-### 03.04 – Abschluss LP14 & Zusammenfassung
-Arbeitspakete (4)  
-[ ] Offene Punkte abschliessen (Features, Fixes, letzte Verbesserungen)  
-
-[ ] Projekt final aufräumen (Struktur, Naming, unnötige Teile entfernen)  
-
-[ ] Dokumentation finalisieren (README: Setup, Features, Security-Learnings)  
-
-[ ] Finaler Abschluss: alles committen/pushen + Planung LP15 (3 Ziele)  
-
-Reflexion 03.04  
-Heute habe ich die Lernperiode abgeschlossen und alle offenen Punkte sauber erledigt. Mein Projekt ist jetzt strukturiert, verständlich und stabil. Besonders wichtig war mir die Dokumentation, weil sie zeigt, was ich gelernt und umgesetzt habe. Insgesamt war es eine starke Lernperiode mit Fokus auf Qualität, Verständnis und praktische Anwendung.
-
----
-
-## Gesamtreflexion Lernperiode 14
-In dieser Lernperiode habe ich meine Webentwicklung auf ein höheres Level gebracht, insbesondere im Bereich Struktur, Architektur und saubere Umsetzung. Ich plane meine Projekte bewusster und achte stärker auf Qualität statt nur auf Funktionalität.
-
-Im Bereich Security habe ich mein Verständnis für Netzwerkverkehr und Requests deutlich vertieft. Durch die Analyse mit Wireshark und das gezielte Untersuchen von Traffic kann ich besser nachvollziehen, wie Systeme kommunizieren und wo mögliche Schwachstellen liegen.
-
-Ich habe gelernt, meine eigenen Projekte kritischer zu hinterfragen und sowohl funktional als auch sicherer zu entwickeln. Für die nächste Lernperiode nehme ich mir vor, noch stärker auf Testing, Automatisierung und weiterführende Security-Themen einzugehen.
